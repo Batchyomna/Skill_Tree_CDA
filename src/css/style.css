@@ -1,0 +1,33 @@
+
+body {
+    padding: 1px;
+    background-color: #222;
+    color: white;
+  }
+  
+  .title {
+   
+      text-align: center;
+  }
+  
+  .student {
+      color: wheat;
+  }
+  .skill1{
+      color: brown;
+  }
+  .skill2{
+      color: green;
+  }
+  .skill3{
+      color: mediumblue;
+  }
+  h4{
+      padding: 1px;
+      color: black;
+    background-color: white;
+  }
+  .divLevels {
+      display: flex;
+      flex-direction: row;
+  }
